@@ -1,5 +1,4 @@
 # *Oficina Casulo - Python e Ciência de Dados*
-Oficina Casulo: Python e Ciência de Dados
 
 ### Descrição
 Bem-vindo(a) à Oficina Casulo, um espaço de transformação onde você dará os primeiros passos no mundo da programação com Python e da Ciência de Dados. Este projeto foi criado para fornecer uma introdução prática e acessível a essas áreas, utilizando um dataset real de dados imobiliários de Nova York como base para nossas explorações.
